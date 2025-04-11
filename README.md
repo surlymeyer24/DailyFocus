@@ -42,5 +42,5 @@ El proyecto está dirigido a:
 - https://www.forestapp.cc/ (Pomodoro visual con árboles)
 - https://superbyte.site/habitrabbit/ (Tracker de Habitos + Pomodoro)
 
-Manual de Marca
-Nombre de la app: DailyFocus (nombre tentativo)
+## Manual de Marca
+- Nombre de la app: DailyFocus
