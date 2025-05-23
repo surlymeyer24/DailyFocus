@@ -2,6 +2,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import React from 'react'
 import StackNavigator from './StackNavigator'
 
+
+// Boton para volver al inicio
 const Tab = createBottomTabNavigator()
 
 const TabNavigator = () => {
